@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MdKashif13
 - 👀 I’m interested in Cyber Security, Networking, Machine Learning
 - 🌱 I’m currently doing Competitive Programming
-- 😄 Pronouns: I/Am
