@@ -1,6 +1,6 @@
 #  Hi, I'm Md Kashif Ansari
 
-### CSE (AI/ML) Student | Machine Learning | Cybersecurity
+### AI/ML Student • Cybersecurity Enthusiast
 
 I'm a 3rd-year Computer Science student specializing in Artificial Intelligence
 and Machine Learning.
@@ -55,14 +55,4 @@ programming problems, and learning how real-world software systems work.
   <img src="https://skillicons.dev/icons?i=unity,cs" />
 </p>
 
----
-
-## Projects
-
-###  EmoSense AI
-Multimodal emotion recognition system combining audio, facial expressions
-and text to predict human emotions.
-
-**Tech:** Python · Machine Learning · Librosa · Scikit-learn · Streamlit
-
-🔗 [View Project](https://github.com/MdKashif13/emosense-ai)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdKashif13&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKashif13&layout=compact&theme=tokyonight" /> </p>
