@@ -1,10 +1,6 @@
 #  Hi, I'm Md Kashif Ansari
 
 ### AI/ML Student • Cybersecurity Enthusiast
-###    ┌─────────────────────────────────────────┐
-###    │   AI/ML  •  Cybersecurity  •  Linux     │
- ###   │   Python •  Networking     •  CTFs      │
-###    └─────────────────────────────────────────┘
 
 I'm a 3rd-year Computer Science student specializing in Artificial Intelligence
 and Machine Learning.
@@ -59,4 +55,3 @@ programming problems, and learning how real-world software systems work.
   <img src="https://skillicons.dev/icons?i=unity,cs" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdKashif13&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKashif13&layout=compact&theme=tokyonight" /> </p>
